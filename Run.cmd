@@ -1,2 +1,2 @@
-git pull origin master
+git pull origin dev
 dotnet SmartDelivery.dll --port=80
